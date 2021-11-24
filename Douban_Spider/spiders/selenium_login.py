@@ -2,10 +2,6 @@ from selenium import webdriver
 
 import time  # from selenium.webdriver.common.keys import Keys
 
-# # chromedriver.exe的地址，因为添加到了环境变量，所以不用填绝对地址
-# driver = webdriver.Chrome('chromedriver.exe')
-# driver.get("https://www.zhihu.com/signup")
-
 # chromedriver.exe的地址，因为添加到了环境变量，所以不用填绝对地址
 
 
